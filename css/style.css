@@ -1,0 +1,65 @@
+button:hover{
+    transform: scale(1.05);
+   
+}
+button{
+    margin-left: 10px;
+    border-radius: 18%;
+    cursor: pointer;   
+    transition: transform 0.3s;
+    border: 1px solid #000000;
+    flex: 1;
+}
+input{
+    height: 20px;
+}
+.menu {
+    text-align: center;
+    size: 110px;
+}
+.link{
+    background-color: rgb(20, 255, 20) ;
+    color: rgb(0, 0, 0);
+    margin-left: 10px; 
+    text-decoration: none;
+}
+.promocao{
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    margin-left: 30px;
+    vertical-align: middle;
+    margin-top: 10px;
+}
+.promocao, .preco{
+    color: rgb(0, 110, 28);
+}
+.inicio{
+    /*white-space: nowrap;*/
+    margin-left: 20px;
+
+}
+.inicio, .promocao{
+    display: inline-block;
+    /*vertical-align: top;*/
+    vertical-align: middle;
+}
+button{
+   color: #000000;  
+}
+.img-pro{
+    transition: transform 0.3s ease;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.img-pro:hover{
+    transform: scale(3.0);
+}
+.imagens, .inf{
+    float: left;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    margin-top: -20px;
+    
+}
