@@ -18,7 +18,7 @@ input{
     size: 110px;
 }
 .link{
-    background-color: rgb(20, 255, 20) ;
+    background-color: rgb(228, 156, 1) ;
     color: rgb(0, 0, 0);
     margin-left: 10px; 
     text-decoration: none;
@@ -29,9 +29,10 @@ input{
     margin-left: 30px;
     vertical-align: middle;
     margin-top: 10px;
+    
 }
 .promocao, .preco{
-    color: rgb(0, 110, 28);
+    color: rgb(126, 86, 0);
 }
 .inicio{
     /*white-space: nowrap;*/
